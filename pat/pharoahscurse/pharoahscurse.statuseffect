@@ -1,0 +1,10 @@
+{
+    "name": "pat_pharoahscurse",
+    "defaultDuration": 1.5,
+    "animationConfig": "pharoahscurse.animation",
+    "effectConfig": {},
+    "scripts": [ "pharoahscurse.lua" ],
+
+    "label" : "the pharoah's curse",
+    "icon" : "/items/armors/decorative/hats/pharaoh/icons.png:head"
+}
