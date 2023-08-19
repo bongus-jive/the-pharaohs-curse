@@ -12,11 +12,11 @@
             "/sfx/blocks/sand_fall9.ogg"
         ],
         "sandstorm": [
-            "/pat/pharoahscurse/sfx/sandstorm_1.ogg",
-            "/pat/pharoahscurse/sfx/sandstorm_2.ogg",
-            "/pat/pharoahscurse/sfx/sandstorm_3.ogg",
-            "/pat/pharoahscurse/sfx/sandstorm_4.ogg",
-            "/pat/pharoahscurse/sfx/sandstorm_5.ogg"
+            "/pat/pharaohscurse/sfx/sandstorm_1.ogg",
+            "/pat/pharaohscurse/sfx/sandstorm_2.ogg",
+            "/pat/pharaohscurse/sfx/sandstorm_3.ogg",
+            "/pat/pharaohscurse/sfx/sandstorm_4.ogg",
+            "/pat/pharaohscurse/sfx/sandstorm_5.ogg"
         ]
     },
     "particleEmitters": {

@@ -1,8 +1,0 @@
-{
-    "input": [
-        [ "sand2", 10 ]
-    ],
-    "output": "pat_pharoahscurse_soup",
-    "groups": [ "craftingfood", "sides" ],
-    "collectables": { "cooking": "pat_pharoahscurse_soup" }
-}

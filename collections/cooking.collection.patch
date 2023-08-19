@@ -1,10 +1,10 @@
 [
     {
         "op": "add",
-        "path": "/collectables/pat_pharoahscurse_soup",
+        "path": "/collectables/pat_pharaohscurse_soup",
         "value": {
             "order" : 420,
-            "item" : "pat_pharoahscurse_soup"
+            "item" : "pat_pharaohscurse_soup"
         }
     }
 ]
